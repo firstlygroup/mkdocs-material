@@ -1,6 +1,6 @@
 ---
 template: overrides/main.html
-title: Getting started
+title: hello world
 ---
 
 # Getting started
